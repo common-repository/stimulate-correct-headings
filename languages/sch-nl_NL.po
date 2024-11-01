@@ -1,0 +1,41 @@
+# Copyright (C) 2013 Stimulate Correct Headings
+# This file is distributed under the same license as the Stimulate Correct Headings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stimulate Correct Headings 0.0.1.\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/stimulate-correct-headings\n"
+"POT-Creation-Date: 2013-08-25 13:25:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-08-25 15:30+0100\n"
+"Last-Translator: Bass Jobsen <bass@w3masters.nl>\n"
+"Language-Team: Jamedo Websites <info@jamedowebsites.nl>\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: stimulate-correct-headings.php:104
+msgid "Heading"
+msgstr "Koptekst"
+
+#. Plugin Name of the plugin/theme
+msgid "Stimulate Correct Headings"
+msgstr "Stimuleer correct gebruik van kopteksten"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/bassjobsen/stimulate-correct-headings"
+msgstr "https://github.com/bassjobsen/stimulate-correct-headings"
+
+#. Description of the plugin/theme
+msgid "Stimulate editors to use correct headings for accessibility and seo"
+msgstr "Stimuleert bloggers / redacteuren correcte kopteksten te gebruiken voor toegankelijkheid en zoekmachineoptimalisatie (seo)"
+
+#. Author of the plugin/theme
+msgid "Bass Jobsen"
+msgstr "Bass Jobsen"
+
+#. Author URI of the plugin/theme
+msgid "http://bassjobsen.weblogs.fm/"
+msgstr "http://bassjobsen.weblogs.fm/"
+
